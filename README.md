@@ -13,6 +13,8 @@ If you recognize my translated books, please don’t hesitate to give me a star.
 
 ## 目录 Contents
 
-## 原著 Original
+## 原著 Originals
 
 1. [ENG - C++ Software Design](https://github.com/MarriotZ/MyTranslatedBooks/blob/main/CPPSoftwareDesign/CPPSoftwareDesign.md)
+
+## 翻译 Translations
